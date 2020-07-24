@@ -6,7 +6,7 @@ import (
  	"os"
 )
 
-// Test comment 2
+// Test comment 3
 
 func main() {
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
